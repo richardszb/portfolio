@@ -94,7 +94,7 @@ export default function App() {
                                 A precizitás iránti igényem a hobbijaimban is megjelenik: a szimulátoros versenyzésben ugyanazt a fegyelmet és ezredmásodpercre pontos optimalizációt keresem, mint egy hatékony algoritmus futásakor.
                             </p>
                             <p>
-                                Ha szeretné felvenni velem a kapcsolatot, megtalálsz a közösségi platformokon, vagy írhatsz nekem közvetlenül a <a href="mailto:richardszabo.dev@gmail.com" className="font-medium text-zinc-200 hover:text-cyan-400 transition-colors">richardszabo.dev@gmail.com</a> e-mail címre.
+                                Ha szeretné felvenni velem a kapcsolatot, megtalál a közösségi platformokon, vagy írhat nekem közvetlenül a <a href="mailto:richardszabo.dev@gmail.com" className="font-medium text-zinc-200 hover:text-cyan-400 transition-colors">richardszabo.dev@gmail.com</a> e-mail címre.
                             </p>
                         </section>
 
